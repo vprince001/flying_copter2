@@ -1,0 +1,9 @@
+body {
+  height: 650px;
+}
+ .barStyle {
+  position: absolute;
+  top: 0px;
+  width: 50px;
+  background-color: black;
+}
